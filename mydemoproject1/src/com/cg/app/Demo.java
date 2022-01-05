@@ -6,6 +6,7 @@ public class Demo {
 		
 		System.out.println("inside main of Demo");
 
+		System.out.println("hello");
 	}
 
 }
